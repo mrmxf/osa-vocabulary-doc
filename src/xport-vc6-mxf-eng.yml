@@ -1,0 +1,84 @@
+# Title: imf-reg-api
+# Author: Bruce Devlin
+# Defaults: DOCX (smpte)
+
+# all file paths are relative to the root folder of the project
+# change this at your peril - the scripts might stop working
+
+
+metadata:
+  mustache:
+    - src/metadata/osa-vocab-document-metadata.json
+    - src/metadata/smunched.json
+    - src/metadata/pp_project_osaglossary.json
+    # - src/metadata/meta-30MR-REG-DD-ST2117-10-groups.xml.json
+    # - src/metadata/meta-30MR-REG-DD-ST2117-10-elements.xml.json
+
+from: markdown
+to: docx
+
+reference-doc: xr/refdoc/refdoc-smpte-eng.docx
+
+output-file:  docs/osa-doc-eng.docx
+input-files:
+  - xr/boilerplate/smpte/inc-smpte-st-000-title-block.md
+  - xr/boilerplate/smpte/inc-smpte-st-002-foreword.md
+  - xr/boilerplate/smpte/inc-smpte-st-005-introduction.md
+
+  - src/005-introduction.md
+  - xr/boilerplate/smpte/inc-smpte-st-006-ipr-statement.md
+  - xr/boilerplate/smpte/inc-smpte-st-010-scope-heading.md
+
+  - src/010-scope.md
+  - xr/boilerplate/smpte/inc-smpte-st-020-normative-references-heading.md
+
+  - src/020-normative-references.md
+  - xr/boilerplate/smpte/inc-smpte-st-030-terms-and-definitions-heading.md
+
+  - src/030-terms-definitions.md
+  - src/030-terms-definitions.md
+  - src/040-first-real-document.md
+
+  - xr/boilerplate/smpte/inc-smpte-st-zz0-information-for-editors.md
+# paths to search for images
+resource-path: [".", "src", "xr/boilerplate/smpte"]
+
+# filters are needed for this document
+# - pandoc-lustache    - substitutes metadata into {{mustaches}}
+# - smpte-st-numbering - smpte numbering logic (don't number introduction etc)
+filters:
+  - xr/filter/pandoc-lustache.lua
+  - xr/filter/smpte-st-numbering.lua
+
+#template: letter
+standalone: true
+self-contained: true
+
+# This variable is passed to filters
+variables:
+  organisation: SMPTE
+
+# ERROR, WARNING, or INFO
+verbosity: INFO
+#log-file: log.json
+
+#pdf-engine: pdflatex
+#pdf-engine-opts:
+#- "-shell-escape"
+# you may also use pdf-engine-opt: with a single option
+# pdf-engine-opt: "-shell-escape"
+
+table-of-contents: false
+toc-depth: 2
+#SMPTE numbering is done with a filter to follow ISO rules
+number-sections: false
+
+#reference-links: true
+# block, section, or document
+#reference-location: block
+#atx-headers: false
+
+fail-if-warnings: false
+dump-args: false
+ignore-args: false
+trace: false

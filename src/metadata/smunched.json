@@ -1,0 +1,10 @@
+{
+    "Interoperability": {
+        "@id": "63",
+        "contributor": "hubbards",
+        "definition": "NIST: The ability of two or more systems or applications to exchange information and to mutually use the information that has been exchanged.",
+        "label": "Interoperability",
+        "note": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)",
+        "status": "Proposed"
+    }
+}

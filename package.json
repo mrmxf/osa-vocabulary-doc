@@ -1,0 +1,25 @@
+{
+  "name": "osa-vocabulary-doc",
+  "version": "1.0.0",
+  "description": "custom tools for md-publish of this document",
+  "main": "src/tool/submission-xml-to-json",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmxf/osa-vocabulary-doc.git"
+  },
+  "author": "mrmxf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrmxf/osa-vocabulary-doc/issues"
+  },
+  "homepage": "https://github.com/mrmxf/osa-vocabulary-doc#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}

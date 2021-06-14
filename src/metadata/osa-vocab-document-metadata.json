@@ -1,0 +1,34 @@
+{
+  "author": [
+    "Sally Hubbard"
+  ],
+  "affiliation": [
+    "OSA"
+  ],
+  "role": "Document Editor",
+  "version": "r1",
+  "smpte": {
+    "TC": "TC-30MR",
+    "group": {
+      "name": "DG-xxxx",
+      "chair": "Chris Lennon",
+      "editor": "Sally Hubbard"
+    },
+    "type": {
+      "short": "ST",
+      "long": "SMPTE STANDARD"
+    },
+    "number": "2xxx",
+    "year": "202x",
+    "part": "1",
+    "element": "",
+    "reference": "ST 2xxx-1:202x",
+    "state": "WD",
+    "title": "OSA Vocabulay",
+    "date": "2021-06-14T18:00:00.000Z",
+    "note": "r1-draft",
+    "revision_topics_list": " "
+  },
+  "title": "OSA Vocabulay",
+  "Caption": "dummy"
+}

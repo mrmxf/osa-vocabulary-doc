@@ -1,0 +1,2222 @@
+[{
+    "@graph": [{
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/0",
+        "@type": ["http://www.w3.org/2004/02/skos/core#ConceptScheme"],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:19:29.320Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/description": [{
+            "@language": "en",
+            "@value": "Term definitions developed by the Open Service Alliance"
+        }],
+        "http://purl.org/dc/terms/title": [{
+            "@language": "en",
+            "@value": "Terms"
+        }],
+        "http://www.w3.org/2004/02/skos/core#hasTopConcept": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/1"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/2"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/4"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/5"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/6"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/8"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/38"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/31"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/10"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/11"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/13"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/16"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/34"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/22"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/23"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/27"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/30"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/66"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/63"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/64"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/71"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/75"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/77"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/1",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:19:47.402Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T15:39:56.984Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Application Program"
+        }, {
+            "@language": "en",
+            "@value": "Software Application Program"
+        }, {
+            "@language": "en",
+            "@value": "Application System"
+        }, {
+            "@language": "en",
+            "@value": "Software Application"
+        }, {
+            "@language": "en",
+            "@value": "Application Software"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA IMF API: Software making requests and receiving responses using the API.\nNote 1 to entry: multiple applications may communicate via the API."
+        }, {
+            "@language": "en",
+            "@value": "ISO: 1. software designed to help users perform particular tasks or handle particular types of problems, as distinct from software that controls the computer itself 2. software or a program that is specific to the solution of an application problem."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Application"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/2"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.1, application"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC/IEEE 24765:2017, Systems and software engineering — Vocabulary, 3.192: application software"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/10",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:32:18.922Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:03:38.379Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Hypertext Transfer Protocol"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: A stateless application-level request/response protocol that uses extensible semantics and self-descriptive message payloads for flexible interaction with network-based hypertext information systems "
+        }, {
+            "@language": "en",
+            "@value": "IETF: a stateless application-level protocol for distributed, collaborative, hypertext information systems."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "HTTP"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.4"
+        }, {
+            "@language": "en",
+            "@value": "IETF RFC 7231: HTTP 1.1 "
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/11",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:33:53.220Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:04:57.194Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA IMF API: returns identical results when invoked with identical parameters regardless of the number of times invoked."
+        }, {
+            "@language": "en",
+            "@value": "OSA VG: An interaction that returns identical results when invoked with identical parameters regardless of the number of times invoked."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Idempotent"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.4\n"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/13",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:36:55.006Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:09:01.806Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "JavaScript Object Notation"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: A lightweight, text-based, language-independent data-interchange format used to represent structured data."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "JSON"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.5"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/16",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:41:56.926Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:02:19.309Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: A modular service that handles a narrow task and is managed  in isolation.  "
+        }, {
+            "@language": "en",
+            "@value": "NIST: A basic element that results from the architectural decomposition of an application’s components into loosely coupled patterns consisting of self-contained services that communicate with each other using a standard communications protocol and a set of well-defined APIs, independent of any vendor, product or technology. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "MIcroservice"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "NIST SP 800-180 (Draft): NIST Definition of Microservices, Application Containers and System Virtual Machines (Based on)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/2",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:22:36.006Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T16:35:41.589Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Application Programming Interface"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "API"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/1"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/22",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:45:42.248Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:56:00.460Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: A category of computing services where servers and other resources are utilized, but are provided by a third-party and accessed only as needed. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Serverless Computing"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/8"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/39"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/23",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:46:00.275Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T15:46:47.279Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "W3C: An abstract resource that represents a capability of performing tasks that form a coherent functionality from the point of view of providers entities and requesters entities. "
+        }, {
+            "@language": "en",
+            "@value": "OSA VG: A capability offered by a logical grouping of the components -- such as microservice(s), function(s), data store(s), and queue(s) -- required to complete a given task and stored in a service registry."
+        }, {
+            "@language": "en",
+            "@value": "MCMA: A a logical grouping of one or more micro-services, data stores, queues, or any other components that might be required for the service's intended high-level purpose."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/54"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "W3C Web Services Glossary: https://www.w3.org/TR/ws-gloss/#service"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (based on MCMA)"
+        }, {
+            "@language": "en",
+            "@value": "MCMA website: https://mcma.io/concepts/mcma-service.html"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/27",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:50:23.349Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:12:18.953Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Uniform Resource Locator"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: A unique identifier for a web resource that specifies its location on a computer network and a mechanism for retrieving it."
+        }, {
+            "@language": "en",
+            "@value": "IETF: A compact string representation of the location for a resource that is available via the Internet."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "URL"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/75"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.10."
+        }, {
+            "@language": "en",
+            "@value": "IETF RFC 2718: Guidelines for new URL Schemes"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/30",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T14:08:51.481Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:02:19.309Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Media Cloud Microservice Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: An initiative of the EBU Technology and Innovation group that provides a set of patterns and practices to govern the implementation of microservice architectures in cross-cloud and/or hybrid environments, with a particular focus on the allocation of tasks to services within media workflows.  "
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/33"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "MCMA"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/31"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/71"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "https://tech.ebu.ch/groups/mcma.\n"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/31",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T14:13:47.000Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:20:10.423Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "European Broadcasting Union"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "EBU"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/30"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "https://www.ebu.ch"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/33",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T15:15:40.834Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:28:44.228Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/30"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: Comprises at least two services: a Service Registry and a Job Processor, along with any additional services required to perform assigned tasks."
+        }],
+        "http://www.w3.org/2004/02/skos/core#hiddenLabel": [{
+            "@language": "en",
+            "@value": "MCMA Core"
+        }, {
+            "@language": "en",
+            "@value": "MCMA Project"
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/54"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "MCMA Environment"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/34",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T18:58:35.896Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T17:10:01.791Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Software Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution."
+        }, {
+            "@language": "en",
+            "@value": "OSA: High-level modeling describing the structure and behavior of a given system, comprising components and the connections between them. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/35"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/65"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/36"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/40"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "NIST SP 800-160, Volume 1, Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems, after ISO/IEC/IEEE 42010: 2011, Systems and software engineering — Architecture description, 3.2"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/35",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T19:00:13.353Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T19:51:09.372Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/34"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: A computing model wherein work is performed in response to specified occurrences or state changes that serve as triggers, automatically initiating designated actions or functions. "
+        }, {
+            "@language": "en",
+            "@value": "OSA Logging: A deterministic architecture where work is performed in response to specified occurrences or state changes.  \nNote: When given events are detected ECA (Event-Condition-Action) rules are triggered, and appropriate actions taken or functions implemented."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Event-Driven Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/36"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/8"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/39"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.1"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/36",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-04-16T19:00:26.374Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T19:56:26.070Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Rule-Based System"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/34"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: A deterministic architecture where work is performed according to a set of rules."
+        }, {
+            "@language": "en",
+            "@value": "OSA VG: A deterministic architecture where work is automated according to a set of human-stipulated instructions."
+        }, {
+            "@language": "en",
+            "@value": "ISO: Knowledge-based system that draws inferences by applying a set of if-then rules to a set of facts following given procedures."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Rule-Based Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/35"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/39"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.2."
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group "
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC 2382:2015, Information technology — Vocabulary, 2123875"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/37",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T14:33:56.585Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T17:30:39.284Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "XaaS"
+        }, {
+            "@language": "en",
+            "@value": "Everything-as-a-Service"
+        }, {
+            "@language": "en",
+            "@value": "Anything-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: A business and provisioning model wherein various computing and data storage resources are hosted by a third party and made available on a subscription or on-demand basis. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/41"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/42"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/43"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/39"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/4"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/38",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T14:35:20.214Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:55:49.514Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The specification or description of how software components are mapped onto physical hardware, provided locally, virtualized, or hosted."
+        }, {
+            "@language": "en",
+            "@value": "ISO: a model of how an application is mapped to a distributed deployment network."
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/44"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/45"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/46"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Deployment Model"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC 16500-8:1999, Information technology — Generic digital audio-visual systems — Part 8: Management architecture and protocols, 3.7 (not listed as publicly available, modified)"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/39",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T15:16:32.814Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T23:53:48.327Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "FaaS"
+        }, {
+            "@language": "en",
+            "@value": "Functions-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: A category of computing services that allows the creation of very granular capabilities that can be concatenated together within a rule-based, event-driven architecture to perform automated tasks and processes."
+        }, {
+            "@language": "en",
+            "@value": "OSA Logging: A category of cloud computing services that allow the creation of very granular tasks (functions) as small, self-contained pieces of codes that can be concatenated together in a rule-based, event-driven architecture to perform automated processes."
+        }, {
+            "@language": "en",
+            "@value": "ISO: Cloud service category in which the capability provided to the cloud service customer is the execution of cloud service customer application code, in the form of one or more functions that are each triggered by a cloud service customer specified event"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Function-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/8"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/35"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/36"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/22"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.3."
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC TS 23167:2020: Information technology — Cloud computing — Common technologies and techniques, 3.17 (not listed as publicly available)"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/4",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:24:50.400Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:08:45.632Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "ISO: A paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand."
+        }, {
+            "@language": "en",
+            "@value": "OSA: A general term for the provision of hosted services.  Also used to differentiate processing or workflows enacted within the cloud from simple storage. "
+        }, {
+            "@language": "en",
+            "@value": "NIST: A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Cloud Computing"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC 17788:2014, Information technology — Cloud computing — Overview and vocabulary, 3.25"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-145: NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology."
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/40",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T18:59:48.697Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T16:51:12.893Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/34"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The organization of an architectural model into several stacked and interrelated components, each with its own focus and function, with defined relationships between layers. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Architectural Layer"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/41",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T19:30:44.806Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:28:13.592Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure, but has control over the deployed applications and possibly configuration settings for the application-hosting environment"
+        }, {
+            "@language": "en",
+            "@value": "OSA: A category of computing services that provides an environment for the development and/or deployment of applications. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Platform-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud  Computing (modified)\n"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/42",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T19:31:06.432Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:31:37.332Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "SaaS"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: a category of computing services where software applications are hosted by a service provider and accessed via standard web browsers.  "
+        }, {
+            "@language": "en",
+            "@value": "NIST: The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure.  The consumer does not manage or control the underlying cloud infrastructure, with the possible exception of limited user-specific application configuration settings."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Software-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud  Computing (modified)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/43",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T19:31:39.362Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:20:32.613Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "IaaS"
+        }, {
+            "@language": "en",
+            "@value": "Hardware-as-a-Service"
+        }, {
+            "@language": "en",
+            "@value": "HaaS"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/37"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls)."
+        }, {
+            "@language": "en",
+            "@value": "OSA: a category of computing services that provides infrastructural components such as servers, storage, and network as virtualized resources. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Infrastructure-as-a-Service"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud  Computing"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/44",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T20:54:31.641Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T23:01:03.076Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Onprem Deployment Model"
+        }, {
+            "@language": "en",
+            "@value": "On-Prem"
+        }, {
+            "@language": "en",
+            "@value": "On-Premise"
+        }, {
+            "@language": "en",
+            "@value": "On-Premise Deployment Model"
+        }, {
+            "@language": "en",
+            "@value": "On-Premises Deployment Model"
+        }, {
+            "@language": "en",
+            "@value": "On-Prem Deployment Model"
+        }, {
+            "@language": "en",
+            "@value": "Onprem"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/38"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The on-site or in-house provision and management of computing resources and infrastructure. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "On-Premises"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/45",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:12:36.260Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:13:26.153Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Cloud Deployment Model"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/38"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "ISO: Ways in which cloud computing can be organized based on the control and sharing of physical or virtual resources. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/47"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/48"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/49"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/50"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "ISO/IEC 22123-1: Information technology — Cloud computing —Part 1: Vocabulary,  3.3.1"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/46",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:12:58.493Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:30:17.651Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Hybrid Deployment Model"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/38"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The utilization of some combination of cloud-based, on-premise, and/or virtualized computing resources."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Hybrid"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/47",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:56:41.584Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T22:59:38.038Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/45"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: A composition of at least two distinct cloud infrastructures (typically private and public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability.\n"
+        }, {
+            "@language": "en",
+            "@value": "OSA: a category of computing services that is made up of both private and public cloud resources. "
+        }, {
+            "@language": "en",
+            "@value": "ISO:  Cloud deployment model using at least two different cloud deployment models."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Hybrid Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud Computing (modified)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.23 "
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/48",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:56:52.439Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T23:00:15.979Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/45"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "ISO: Services are used exclusively by a single cloud service customer and resources are controlled by that cloud service customer."
+        }, {
+            "@language": "en",
+            "@value": "OSA: A category of computing services that the user can access without going through the public Internet, and which could include on-premises resources as well as resources in other physical locations connected to over private networks. "
+        }, {
+            "@language": "en",
+            "@value": "NIST: The cloud infrastructure is provisioned for exclusive use by a single organization comprising multiple consumers (e.g., business units). It may be owned, managed, and operated by the organization, a third party, or some combination of them, and it may exist on or off premises."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Private Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.32"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud  Computing"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/49",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:57:10.787Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T23:03:17.011Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/45"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: a category of computing services where cloud services and storage are accessed via the public Internet. "
+        }, {
+            "@language": "en",
+            "@value": "ISO: Services are potentially available to any cloud service customer and resources are controlled by the cloud service provider."
+        }, {
+            "@language": "en",
+            "@value": "NIST: The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Public Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.33"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-145: The NIST Definition of Cloud Computing"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/5",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:25:20.000Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:49:42.924Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Endpoint"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA IMF API: Software receiving requests and providing responses using the API"
+        }, {
+            "@language": "en",
+            "@value": "W3C: An association between a binding and a network address, specified by a URI, that may be used to communicate with an instance of a service. An end point indicates a specific location for accessing a service using a specific protocol and data format."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "End Point"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.2."
+        }, {
+            "@language": "en",
+            "@value": "W3C Web Services Glossary: https://www.w3.org/TR/ws-gloss/"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/50",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T22:58:00.911Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T22:32:48.333Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Cross-Cloud"
+        }, {
+            "@language": "en",
+            "@value": "Interconnected Cloud"
+        }, {
+            "@language": "en",
+            "@value": "Multicloud"
+        }, {
+            "@language": "en",
+            "@value": "Multiple Clouds"
+        }, {
+            "@language": "en",
+            "@value": "Intercloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/45"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The use of services from multiple cloud service providers, typically to provide vendor redundancy and/or to provide a mix of services optimized to the capabilities of each vendor. Likely to present interoperability and portability challenges."
+        }, {
+            "@language": "en",
+            "@value": "NIST: Provisioning cloud resources from multiple cloud providers"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Multi-Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/51",
+        "@type": ["http://www.w3.org/2004/02/skos/core#ConceptScheme"],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-05T23:59:53.332Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/description": [{
+            "@language": "en",
+            "@value": "Term definitions developed by the Open Service Alliance (OSA), focused on enabling improved and open interoperability among service-based applications.  \n(All terms are currently candidate/non-approved and currently provided as examples only.  They should not  be shared without confirmation from the OSA, at openservicesalliance.com.)\n Hosted by PBS Operations, Engineering & Distribution. "
+        }],
+        "http://purl.org/dc/terms/publisher": [{
+            "@id": "https://vocabulary.pbs.org/user/cdbbe6c9-6404-4dd8-acf7-2d142b4c7982"
+        }],
+        "http://purl.org/dc/terms/title": [{
+            "@language": "en",
+            "@value": "Deprecated Terms"
+        }],
+        "http://www.w3.org/2004/02/skos/core#hasTopConcept": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/52"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/52",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T00:00:20.107Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T00:01:26.443Z"
+        }],
+        "http://schema.semantic-web.at/ppx/excludeFromExtraction": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+            "@value": "true"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "Formerly a service within MCMA, now folded into the Job Processor."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Repository"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/51"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/54",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T12:16:06.354Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:05:46.507Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/33"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "Used to store available services with their capabilities and associated Job Profiles and make them available for discovery by the Job Processor.  "
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/60"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/61"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Service Registry"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/23"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/55",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T12:16:21.830Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:05:21.565Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/33"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "Used to create job(s); allocate them to service(s) listed within the Service Registry; assign identifiers; and monitor and store execution status."
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/56"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/57"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/76"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/74"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/73"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Processor"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/71"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/56",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T12:24:21.317Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T11:58:41.069Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: A record of statuses collected during job execution."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Log"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.7."
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/57",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T12:26:06.633Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T11:55:32.355Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: A token, including a unique identifier and a human readable label, assigned to each job and used to correlate job execution over all involved services and components."
+        }, {
+            "@language": "en",
+            "@value": "A token, including a unique identifier and a human readable label, assigned to each job and used to correlate job execution over all involved services and components."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Tracker"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.9."
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/6",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:27:38.768Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T23:49:03.760Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Entity Tag"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: An opaque validator for differentiating between multiple representations of the same resource"
+        }, {
+            "@language": "en",
+            "@value": "IETF: An opaque validator for differentiating between multiple representations of the same resource, regardless of whether those multiple representations are due to resource state changes over time, content negotiation resulting in multiple representations being valid at the same time, or both.  An entity-tag consists of an opaque quoted string, possibly prefixed by a weakness indicator. "
+        }, {
+            "@language": "en",
+            "@value": "OSA IMF API: Software making requests and receiving responses using the API entity tag as defined in the HTTP protocol."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "ETag"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "IETF RFC 7232: HTTP 1.1"
+        }, {
+            "@language": "en",
+            "@value": "IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.3.\n"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/60",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T15:51:59.922Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T14:03:44.579Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/54"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "The stored job profiles available for re-use."
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/72"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Profile Repository"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/71"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/61",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T15:52:32.361Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T14:04:38.884Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/54"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The library of available service capabilities."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Service Repository"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/63",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T17:36:31.650Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T01:00:15.850Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: The ability of two or more systems or applications to exchange information and to mutually use the information that has been exchanged."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Interoperability"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (Proposed)"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/64",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T18:02:23.417Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:54:45.410Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: The ability to move an object from one system to another without the loss of functionality."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Portability"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (Proposed Term)"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/65",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T20:47:04.555Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:55:01.327Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "ZTA"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/34"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "NIST: A cybersecurity architecture that is based on zero trust principles and designed to prevent data breaches and limit internal lateral movement"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Zero-Trust Architecture"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (Proposed Term)"
+        }, {
+            "@language": "en",
+            "@value": "NIST SP 800-207: Zero Trust Architecture"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/66",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:10:55.823Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-20T21:24:39.697Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "ISO: A collection of networked remote servers."
+        }, {
+            "@language": "en",
+            "@value": "OSA: Remote networked server infrastructure used for storage, processing and/or services and accessed via TCP/IP and related protocols. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Cloud"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "ISO 20294:2018, Graphic technology — Quantification and communication for calculating the carbon footprint of e-media (not listed as publicly available)"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/71",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:55:21.144Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T15:52:11.463Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA VG: A unit of work within a service-based media environment"
+        }, {
+            "@language": "en",
+            "@value": "OSA Logging: A stored set of processes that may be used to perform a specific piece of work or operation on media files as needed"
+        }, {
+            "@language": "en",
+            "@value": "ISO: User-defined unit of work that is to be accomplished by a computer."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/30"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/60"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }, {
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.6"
+        }, {
+            "@language": "en",
+            "@value": "ISO/IEC/IEEE 24765:2017: Systems and software engineering — Vocabulary,  3.1542, modified."
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/72",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:55:53.727Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:05:05.527Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/60"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: URL where the job profile is stored and retrievable with a HTTP GET request. The job profile indicates which specific operation is going to be performed.  It also describes which input and output parameters are expected."
+        }, {
+            "@language": "en",
+            "@value": "OSA VG: A template describing the operation(s) to be performed by a job and its expected input and output parameters. Stored in the Service Registry."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Profile"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), 5.3"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/73",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:56:09.791Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T14:02:58.425Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The performance of a job."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Execution"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/74",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T00:56:40.563Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T14:02:25.341Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA: The allocation of a given job to the service(s) capable of fulfilling it. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Job Assignment"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/75",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:08:29.548Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T13:01:13.141Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "@language": "en",
+            "@value": "Uniform Resource Identifier"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "IETF: a compact sequence of  characters that identifies an abstract or physical resource."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "URI"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/27"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "IETF RFC 3986: Uniform Resource Identifier (URI): Generic Syntax"
+        }, {
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (Proposed Term)"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/76",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:14:46.838Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:35:26.341Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/55"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "OSA Logging: The real-time reporting of the success, failure or other status of the job execution."
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Status Reporting"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions 3.8."
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/77",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:53:54.223Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-21T12:54:33.046Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Latency"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group (Proposed Term)"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }, {
+        "@id": "https://vocabulary.pbs.org/OSAGlossary/8",
+        "@type": ["http://www.w3.org/2004/02/skos/core#Concept"],
+        "http://purl.org/dc/terms/contributor": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2020-10-23T12:30:22.190Z"
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "@id": "https://vocabulary.pbs.org/user/hubbards"
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "@value": "2021-05-06T02:14:20.888Z"
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "@language": "en",
+            "@value": "A single-purpose, short-lived granular unit of code that runs only in response to specified triggers. "
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "@language": "en",
+            "@value": "Function"
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/35"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/22"
+        }, {
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/39"
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "@language": "en",
+            "@value": "OSA Vocabulary Group"
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "@id": "https://vocabulary.pbs.org/OSAGlossary/0"
+        }]
+    }],
+    "@id": "https://vocabulary.pbs.org/OSAGlossary/thesaurus"
+}]

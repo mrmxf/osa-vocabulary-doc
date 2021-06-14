@@ -1,0 +1,3654 @@
+{
+    "https://vocabulary.pbs.org/OSAGlossary/0": {
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:19:29.320Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/description": [{
+            "value": "Term definitions developed by the Open Service Alliance",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/title": [{
+            "value": "Terms",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#hasTopConcept": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/1",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/10",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/11",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/13",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/16",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/2",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/22",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/23",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/27",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/30",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/31",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/34",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/38",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/4",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/5",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/6",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/63",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/64",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/66",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/71",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/75",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/77",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/8",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/1": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:19:47.402Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T15:39:56.984Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Application Program",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Application Software",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Application System",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Software Application",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Software Application Program",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: 1. software designed to help users perform particular tasks or handle particular types of problems, as distinct from software that controls the computer itself 2. software or a program that is specific to the solution of an application problem.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA IMF API: Software making requests and receiving responses using the API.\nNote 1 to entry: multiple applications may communicate via the API.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Application",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/2",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC/IEEE 24765:2017, Systems and software engineering — Vocabulary, 3.192: application software",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.1, application",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/10": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:32:18.922Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:03:38.379Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Hypertext Transfer Protocol",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "IETF: a stateless application-level protocol for distributed, collaborative, hypertext information systems.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Logging: A stateless application-level request/response protocol that uses extensible semantics and self-descriptive message payloads for flexible interaction with network-based hypertext information systems ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "HTTP",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "IETF RFC 7231: HTTP 1.1 ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.4",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/11": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:33:53.220Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T00:04:57.194Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA IMF API: returns identical results when invoked with identical parameters regardless of the number of times invoked.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: An interaction that returns identical results when invoked with identical parameters regardless of the number of times invoked.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Idempotent",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.4\n",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/13": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:36:55.006Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:09:01.806Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "JavaScript Object Notation",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: A lightweight, text-based, language-independent data-interchange format used to represent structured data.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "JSON",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.5",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/16": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:41:56.926Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:02:19.309Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: A basic element that results from the architectural decomposition of an application’s components into loosely coupled patterns consisting of self-contained services that communicate with each other using a standard communications protocol and a set of well-defined APIs, independent of any vendor, product or technology. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: A modular service that handles a narrow task and is managed  in isolation.  ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "MIcroservice",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-180 (Draft): NIST Definition of Microservices, Application Containers and System Virtual Machines (Based on)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/2": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:22:36.006Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T16:35:41.589Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Application Programming Interface",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "API",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/1",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/22": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:45:42.248Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:56:00.460Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA VG: A category of computing services where servers and other resources are utilized, but are provided by a third-party and accessed only as needed. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Serverless Computing",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/39",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/8",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/23": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:46:00.275Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T15:46:47.279Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "MCMA: A a logical grouping of one or more micro-services, data stores, queues, or any other components that might be required for the service's intended high-level purpose.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A capability offered by a logical grouping of the components -- such as microservice(s), function(s), data store(s), and queue(s) -- required to complete a given task and stored in a service registry.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "W3C: An abstract resource that represents a capability of performing tasks that form a coherent functionality from the point of view of providers entities and requesters entities. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/54",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "MCMA website: https://mcma.io/concepts/mcma-service.html",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group (based on MCMA)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "W3C Web Services Glossary: https://www.w3.org/TR/ws-gloss/#service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/27": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:50:23.349Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:12:18.953Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Uniform Resource Locator",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "IETF: A compact string representation of the location for a resource that is available via the Internet.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Logging: A unique identifier for a web resource that specifies its location on a computer network and a mechanism for retrieving it.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "URL",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/75",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "IETF RFC 2718: Guidelines for new URL Schemes",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.10.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/30": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T14:08:51.481Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:02:19.309Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Media Cloud Microservice Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA VG: An initiative of the EBU Technology and Innovation group that provides a set of patterns and practices to govern the implementation of microservice architectures in cross-cloud and/or hybrid environments, with a particular focus on the allocation of tasks to services within media workflows.  ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/33",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "MCMA",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/31",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/71",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://tech.ebu.ch/groups/mcma.\n",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/31": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T14:13:47.000Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T00:20:10.423Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "European Broadcasting Union",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "EBU",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/30",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "https://www.ebu.ch",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/33": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T15:15:40.834Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:28:44.228Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/30",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA VG: Comprises at least two services: a Service Registry and a Job Processor, along with any additional services required to perform assigned tasks.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#hiddenLabel": [{
+            "value": "MCMA Core",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "MCMA Project",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/54",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "MCMA Environment",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/34": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T18:58:35.896Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T17:10:01.791Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Software Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The fundamental concepts or properties of a system in its environment embodied in its elements, relationships, and in the principles of its design and evolution.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: High-level modeling describing the structure and behavior of a given system, comprising components and the connections between them. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/35",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/36",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/40",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/65",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-160, Volume 1, Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems, after ISO/IEC/IEEE 42010: 2011, Systems and software engineering — Architecture description, 3.2",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/35": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T19:00:13.353Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T19:51:09.372Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/34",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA Logging: A deterministic architecture where work is performed in response to specified occurrences or state changes.  \nNote: When given events are detected ECA (Event-Condition-Action) rules are triggered, and appropriate actions taken or functions implemented.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A computing model wherein work is performed in response to specified occurrences or state changes that serve as triggers, automatically initiating designated actions or functions. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Event-Driven Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/36",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/39",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/8",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.1",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/36": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-04-16T19:00:26.374Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T19:56:26.070Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Rule-Based System",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/34",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: Knowledge-based system that draws inferences by applying a set of if-then rules to a set of facts following given procedures.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Logging: A deterministic architecture where work is performed according to a set of rules.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A deterministic architecture where work is automated according to a set of human-stipulated instructions.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Rule-Based Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/35",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/39",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 2382:2015, Information technology — Vocabulary, 2123875",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.2.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/37": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T14:33:56.585Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T17:30:39.284Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Anything-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Everything-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "XaaS",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: A business and provisioning model wherein various computing and data storage resources are hosted by a third party and made available on a subscription or on-demand basis. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/39",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/41",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/42",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/43",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/4",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/38": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T14:35:20.214Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:55:49.514Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: a model of how an application is mapped to a distributed deployment network.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: The specification or description of how software components are mapped onto physical hardware, provided locally, virtualized, or hosted.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/44",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/45",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/46",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 16500-8:1999, Information technology — Generic digital audio-visual systems — Part 8: Management architecture and protocols, 3.7 (not listed as publicly available, modified)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/39": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T15:16:32.814Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T23:53:48.327Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "FaaS",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Functions-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: Cloud service category in which the capability provided to the cloud service customer is the execution of cloud service customer application code, in the form of one or more functions that are each triggered by a cloud service customer specified event",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Logging: A category of cloud computing services that allow the creation of very granular tasks (functions) as small, self-contained pieces of codes that can be concatenated together in a rule-based, event-driven architecture to perform automated processes.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A category of computing services that allows the creation of very granular capabilities that can be concatenated together within a rule-based, event-driven architecture to perform automated tasks and processes.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Function-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/22",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/35",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/36",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/8",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC TS 23167:2020: Information technology — Cloud computing — Common technologies and techniques, 3.17 (not listed as publicly available)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.3.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/4": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:24:50.400Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T21:08:45.632Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: A paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST: A model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: A general term for the provision of hosted services.  Also used to differentiate processing or workflows enacted within the cloud from simple storage. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Cloud Computing",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 17788:2014, Information technology — Cloud computing — Overview and vocabulary, 3.25",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST SP 800-145: NIST Definition of Cloud Computing: Recommendations of the National Institute of Standards and Technology.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/40": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T18:59:48.697Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T16:51:12.893Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/34",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The organization of an architectural model into several stacked and interrelated components, each with its own focus and function, with defined relationships between layers. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Architectural Layer",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/41": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T19:30:44.806Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:28:13.592Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using programming languages, libraries, services, and tools supported by the provider. The consumer does not manage or control the underlying cloud infrastructure, but has control over the deployed applications and possibly configuration settings for the application-hosting environment",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: A category of computing services that provides an environment for the development and/or deployment of applications. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Platform-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-145: The NIST Definition of Cloud  Computing (modified)\n",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/42": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T19:31:06.432Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:31:37.332Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "SaaS",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure.  The consumer does not manage or control the underlying cloud infrastructure, with the possible exception of limited user-specific application configuration settings.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: a category of computing services where software applications are hosted by a service provider and accessed via standard web browsers.  ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Software-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-145: The NIST Definition of Cloud  Computing (modified)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/43": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T19:31:39.362Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T20:20:32.613Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "HaaS",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Hardware-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "IaaS",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/37",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to deploy and run arbitrary software, which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications; and possibly limited control of select networking components (e.g., host firewalls).",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: a category of computing services that provides infrastructural components such as servers, storage, and network as virtualized resources. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Infrastructure-as-a-Service",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-145: The NIST Definition of Cloud  Computing",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/44": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T20:54:31.641Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T23:01:03.076Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "On-Prem",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "On-Prem Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "On-Premise",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "On-Premise Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "On-Premises Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Onprem",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Onprem Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/38",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The on-site or in-house provision and management of computing resources and infrastructure. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "On-Premises",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/45": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:12:36.260Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T21:13:26.153Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Cloud Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/38",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: Ways in which cloud computing can be organized based on the control and sharing of physical or virtual resources. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/47",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/48",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/49",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/50",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 22123-1: Information technology — Cloud computing —Part 1: Vocabulary,  3.3.1",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/46": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:12:58.493Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T21:30:17.651Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Hybrid Deployment Model",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/38",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The utilization of some combination of cloud-based, on-premise, and/or virtualized computing resources.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Hybrid",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/47": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:56:41.584Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T22:59:38.038Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/45",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO:  Cloud deployment model using at least two different cloud deployment models.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST: A composition of at least two distinct cloud infrastructures (typically private and public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability.\n",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: a category of computing services that is made up of both private and public cloud resources. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Hybrid Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.23 ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST SP 800-145: The NIST Definition of Cloud Computing (modified)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/48": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:56:52.439Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T23:00:15.979Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/45",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: Services are used exclusively by a single cloud service customer and resources are controlled by that cloud service customer.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST: The cloud infrastructure is provisioned for exclusive use by a single organization comprising multiple consumers (e.g., business units). It may be owned, managed, and operated by the organization, a third party, or some combination of them, and it may exist on or off premises.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: A category of computing services that the user can access without going through the public Internet, and which could include on-premises resources as well as resources in other physical locations connected to over private networks. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Private Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.32",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST SP 800-145: The NIST Definition of Cloud  Computing",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/49": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:57:10.787Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T23:03:17.011Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/45",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: Services are potentially available to any cloud service customer and resources are controlled by the cloud service provider.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST: The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: a category of computing services where cloud services and storage are accessed via the public Internet. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Public Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC 17788: Information technology — Cloud computing — Overview and vocabulary, Section 3.2.33",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "NIST SP 800-145: The NIST Definition of Cloud Computing",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/5": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:25:20.000Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T21:49:42.924Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Endpoint",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA IMF API: Software receiving requests and providing responses using the API",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "W3C: An association between a binding and a network address, specified by a URI, that may be used to communicate with an instance of a service. An end point indicates a specific location for accessing a service using a specific protocol and data format.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "End Point",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.2.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "W3C Web Services Glossary: https://www.w3.org/TR/ws-gloss/",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/50": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T22:58:00.911Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T22:32:48.333Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Cross-Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Intercloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Interconnected Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Multicloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "Multiple Clouds",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/45",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: Provisioning cloud resources from multiple cloud providers",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: The use of services from multiple cloud service providers, typically to provide vendor redundancy and/or to provide a mix of services optimized to the capabilities of each vendor. Likely to present interoperability and portability challenges.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Multi-Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/51": {
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-05T23:59:53.332Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/description": [{
+            "value": "Term definitions developed by the Open Service Alliance (OSA), focused on enabling improved and open interoperability among service-based applications.  \n(All terms are currently candidate/non-approved and currently provided as examples only.  They should not  be shared without confirmation from the OSA, at openservicesalliance.com.)\n Hosted by PBS Operations, Engineering & Distribution. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/publisher": [{
+            "value": "https://vocabulary.pbs.org/user/cdbbe6c9-6404-4dd8-acf7-2d142b4c7982",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/title": [{
+            "value": "Deprecated Terms",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#hasTopConcept": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/52",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/52": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T00:00:20.107Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-06T00:01:26.443Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://schema.semantic-web.at/ppx/excludeFromExtraction": [{
+            "value": "true",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "Formerly a service within MCMA, now folded into the Job Processor.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Repository",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/51",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/54": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T12:16:06.354Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:05:46.507Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/33",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "Used to store available services with their capabilities and associated Job Profiles and make them available for discovery by the Job Processor.  ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/60",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/61",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Service Registry",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/23",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/55": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T12:16:21.830Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:05:21.565Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/33",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "Used to create job(s); allocate them to service(s) listed within the Service Registry; assign identifiers; and monitor and store execution status.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/56",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/57",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/73",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/74",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/76",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Processor",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/71",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/56": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T12:24:21.317Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T11:58:41.069Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA Logging: A record of statuses collected during job execution.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Log",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.7.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/57": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T12:26:06.633Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T11:55:32.355Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "A token, including a unique identifier and a human readable label, assigned to each job and used to correlate job execution over all involved services and components.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A token, including a unique identifier and a human readable label, assigned to each job and used to correlate job execution over all involved services and components.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Tracker",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.9.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/6": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:27:38.768Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T23:49:03.760Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Entity Tag",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "IETF: An opaque validator for differentiating between multiple representations of the same resource, regardless of whether those multiple representations are due to resource state changes over time, content negotiation resulting in multiple representations being valid at the same time, or both.  An entity-tag consists of an opaque quoted string, possibly prefixed by a weakness indicator. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA IMF API: Software making requests and receiving responses using the API entity tag as defined in the HTTP protocol.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: An opaque validator for differentiating between multiple representations of the same resource",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "ETag",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "IETF RFC 7232: HTTP 1.1",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "IMF Registration Service API (SMPTE ST-2125:202x), Terms and Definitions, 3.3.\n",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/60": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T15:51:59.922Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T14:03:44.579Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/54",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "The stored job profiles available for re-use.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#narrower": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/72",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Profile Repository",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/71",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/61": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-06T15:52:32.361Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T14:04:38.884Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/54",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The library of available service capabilities.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Service Repository",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/63": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-20T17:36:31.650Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T01:00:15.850Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The ability of two or more systems or applications to exchange information and to mutually use the information that has been exchanged.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Interoperability",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group (Proposed)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/64": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-20T18:02:23.417Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:54:45.410Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: The ability to move an object from one system to another without the loss of functionality.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Portability",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 500-XXX: The NIST Cloud Federation Reference Architecture (Draft)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group (Proposed Term)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/65": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-20T20:47:04.555Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:55:01.327Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "ZTA",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/34",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "NIST: A cybersecurity architecture that is based on zero trust principles and designed to prevent data breaches and limit internal lateral movement",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Zero-Trust Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "NIST SP 800-207: Zero Trust Architecture",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group (Proposed Term)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/66": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-20T21:10:55.823Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-20T21:24:39.697Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: A collection of networked remote servers.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Remote networked server infrastructure used for storage, processing and/or services and accessed via TCP/IP and related protocols. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Cloud",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO 20294:2018, Graphic technology — Quantification and communication for calculating the carbon footprint of e-media (not listed as publicly available)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/71": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T00:55:21.144Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T15:52:11.463Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "ISO: User-defined unit of work that is to be accomplished by a computer.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Logging: A stored set of processes that may be used to perform a specific piece of work or operation on media files as needed",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A unit of work within a service-based media environment",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/30",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/60",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "ISO/IEC/IEEE 24765:2017: Systems and software engineering — Vocabulary,  3.1542, modified.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions, 3.6",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/72": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T00:55:53.727Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:05:05.527Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/60",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA Logging: URL where the job profile is stored and retrievable with a HTTP GET request. The job profile indicates which specific operation is going to be performed.  It also describes which input and output parameters are expected.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA VG: A template describing the operation(s) to be performed by a job and its expected input and output parameters. Stored in the Service Registry.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Profile",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), 5.3",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/73": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T00:56:09.791Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T14:02:58.425Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The performance of a job.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Execution",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/74": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T00:56:40.563Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T14:02:25.341Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA: The allocation of a given job to the service(s) capable of fulfilling it. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Job Assignment",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/75": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T12:08:29.548Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T13:01:13.141Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#altLabel": [{
+            "value": "Uniform Resource Identifier",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "IETF: a compact sequence of  characters that identifies an abstract or physical resource.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "URI",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/27",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "IETF RFC 3986: Uniform Resource Identifier (URI): Generic Syntax",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "OSA Vocabulary Group (Proposed Term)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/76": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T12:14:46.838Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:35:26.341Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#broader": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/55",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "OSA Logging: The real-time reporting of the success, failure or other status of the job execution.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Status Reporting",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA: Microservice Status Reporting and Logging (SMPTE ST 2126:202x), Terms and Definitions 3.8.",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/77": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2021-05-21T12:53:54.223Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-21T12:54:33.046Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Latency",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group (Proposed Term)",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    },
+    "https://vocabulary.pbs.org/OSAGlossary/8": {
+        "http://purl.org/dc/terms/contributor": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/created": [{
+            "value": "2020-10-23T12:30:22.190Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/creator": [{
+            "value": "https://vocabulary.pbs.org/user/hubbards",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://purl.org/dc/terms/modified": [{
+            "value": "2021-05-06T02:14:20.888Z",
+            "type": "literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": [{
+            "value": "http://www.w3.org/2004/02/skos/core#Concept",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#definition": [{
+            "value": "A single-purpose, short-lived granular unit of code that runs only in response to specified triggers. ",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#prefLabel": [{
+            "value": "Function",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#related": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/22",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/35",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }, {
+            "value": "https://vocabulary.pbs.org/OSAGlossary/39",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#scopeNote": [{
+            "value": "OSA Vocabulary Group",
+            "type": "literal",
+            "lang": "en",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }],
+        "http://www.w3.org/2004/02/skos/core#topConceptOf": [{
+            "value": "https://vocabulary.pbs.org/OSAGlossary/0",
+            "type": "uri",
+            "graphs": ["https://vocabulary.pbs.org/OSAGlossary/thesaurus"]
+        }]
+    }
+}
