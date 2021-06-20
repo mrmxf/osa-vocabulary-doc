@@ -38,6 +38,7 @@ input-files:
   - src/030-terms-definitions.md
   - src/030-terms-definitions.md
   - src/040-first-real-document.md
+  - src/050-new-section.md
 
   - xr/boilerplate/smpte/inc-smpte-st-zz0-information-for-editors.md
 # paths to search for images

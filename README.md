@@ -19,15 +19,21 @@ run time. This is what happens to make a document:
 
 ## Installation
 
-There are 3 system dependencies that should be installed:
+There are system dependencies that should be installed:
 
-1. [node](https://nodejs.org/en/) LTS - Long Term Stable vcersion
-2. [Pandoc](https://pandoc.org/) tyhe document processor
+1. [Git](https://git-scm.com/download)-SCM for Source Code Management
+2. [VS Code](https://code.visualstudio.com/download) for editing and managing Git
+3. [node](https://nodejs.org/en/) LTS - Long Term Stable version for JSON conversion
+4. [Pandoc](https://pandoc.org/) tyhe document processor for document provessing
 
-If you're running on a Mac or Linux then jump
-straight to **tools installation** below. If you're running
-Windows, then you'll need to install **WSL** -
-**W**indows **S**ubsystem for **L**inux.
+If you're running on a Mac or Linux then jump straight to **tools installation** below.
+
+If you're running Windows, then you'll need a Linux style command line. The best way
+to do this is to install **WSL** - **W**indows **S**ubsystem for **L**inux.
+
+The alternative way is to use the **Git Bash** shell for running the make commands.
+You will need to open a Git-bash window in the `osa-vocabulary-doc` folder of the
+cloned project and then run commands like `xr/mdpub.sh` to build the docs.
 
 ### WSL install on Windows
 
